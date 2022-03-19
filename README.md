@@ -5,7 +5,8 @@ I only made this project to challenge myself and im looking for honest feedback.
 CONR was produced in Pycharm using Python Modules.
 It contains the basic requirements needed for a language.
 Go to the grammar.txt to review the expressions.
-The language is also mostly caps. I know some people may find this annyoing and hard but I want CONR to be unique in some way.
+The language is also mostly caps. I know some people may find this annoying and hard but I want CONR to be unique in some way.
+To play around and make your own cool programs go to the 'example.txt' file to start coding, an stressful thing about the file is that it is a text file so it might give you typo errors and it will be harder to see and address your issues and for that im sorry. I do not know how to resolve these problems but i will try 
 Setting up CONR is a bit different as I said before it's not developed and doesn't have a file path yet.
 
 1. Make sure you have Pycharm(Python IDE) installed. The reason for this is because the langauge was created with Python Modules and it does not have it's own repository yet
