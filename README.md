@@ -7,13 +7,13 @@ Generate **A E S T H E T I C** ASCII art.
 1. Install:
 
 ```
-pip install aesthetic-ascii
+pip install aesthetic-art
 ```
 
 2. Generate an aesthetic ASCII visual:
 
 ```python
-from aesthetic_ascii import synthesize
+from aesthetic_art import synthesize
 
 # initialize drive object (to generate visuals)
 drive = synthesize.Drive()
